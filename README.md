@@ -1,1 +1,4 @@
-& "C:\Program Files\Maven\apache-maven-3.9.16\bin\mvn.cmd" -U validate -e 2>&1 | Select-String -Pattern "Non-resolvable parent POM|Could not find artifact|Could not transfer artifact|401|403|Unknown host|parent.relativePath|BUILD FAILURE" -Context 2,3
+हा: चि० जनेश्वर चौधरी
+दुल्हन: आयु० गायत्री
+महिलाओं के नाम: श्रीमती पुष्पा देवी, श्रीमती तेरी देवी और श्रीमती सीता साहनी
+पुरुषों के नाम: श्री कमलेश्वर चौधरी, श्री बिहारी लाल चौधरी और श्री रोहित साहनी
